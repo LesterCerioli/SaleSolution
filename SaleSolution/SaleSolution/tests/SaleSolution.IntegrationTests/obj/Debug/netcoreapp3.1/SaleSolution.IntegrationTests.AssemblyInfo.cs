@@ -11,12 +11,6 @@
 using System;
 using System.Reflection;
 
-[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("SaleSolution.Infrastructure", "C:\\Users\\lester_profarma\\source\\repos\\GitHub\\SaleSolution\\SaleSolution\\SaleSoluti" +
-    "on\\src\\SaleSolution.Infrastructure", "SaleSolution.Infrastructure.csproj", "0")]
-[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("SaleSolution.UnitTests", "C:\\Users\\lester_profarma\\source\\repos\\GitHub\\SaleSolution\\SaleSolution\\SaleSoluti" +
-    "on\\tests\\SaleSolution.UnitTests", "SaleSolution.UnitTests.csproj", "0")]
-[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("SaleSolution.Web", "C:\\Users\\lester_profarma\\source\\repos\\GitHub\\SaleSolution\\SaleSolution\\SaleSoluti" +
-    "on\\src\\SaleSolution.Web", "SaleSolution.Web.csproj", "0")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("SaleSolution.IntegrationTests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "enYfMciTxbAvz1aKVf8kNQPJ/H7DNQg8qiXPV+jH5hzTaxU5uv+D3gWjaLZFnOEGBm/JITUEgSCq+BezBmuSew==",
+  "dgSpecHash": "NqngbthXgvL06fqzjbrBQzCndqnMmX8PDW2KOHCD/dsexN4iyNHggkWqRmou5ZJ8kmGPVmWa0Jn39Y+idavnzw==",
   "success": true,
   "projectFilePath": "C:\\Users\\lester_profarma\\source\\repos\\GitHub\\SaleSolution\\SaleSolution\\SaleSolution\\tests\\SaleSolution.FunctionalTests\\SaleSolution.FunctionalTests.csproj",
   "expectedPackageFiles": [
@@ -12,6 +12,7 @@
     "C:\\Users\\lester_profarma\\.nuget\\packages\\autofac.extensions.dependencyinjection\\6.0.0\\autofac.extensions.dependencyinjection.6.0.0.nupkg.sha512",
     "C:\\Users\\lester_profarma\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
     "C:\\Users\\lester_profarma\\.nuget\\packages\\coverlet.collector\\1.2.1\\coverlet.collector.1.2.1.nupkg.sha512",
+    "C:\\Users\\lester_profarma\\.nuget\\packages\\fluentvalidation\\9.0.1\\fluentvalidation.9.0.1.nupkg.sha512",
     "C:\\Users\\lester_profarma\\.nuget\\packages\\jetbrains.annotations\\2019.1.3\\jetbrains.annotations.2019.1.3.nupkg.sha512",
     "C:\\Users\\lester_profarma\\.nuget\\packages\\libuv\\1.9.1\\libuv.1.9.1.nupkg.sha512",
     "C:\\Users\\lester_profarma\\.nuget\\packages\\microsoft.aspnetcore\\1.1.0\\microsoft.aspnetcore.1.1.0.nupkg.sha512",

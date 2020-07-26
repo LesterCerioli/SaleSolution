@@ -1,0 +1,8 @@
+C:\Users\lester_profarma\source\repos\GitHub\SaleSolution\SaleSolution\SaleSolution\src\SaleSolution.Web\obj\Debug\netcoreapp3.1\SaleSolution.Web.csprojAssemblyReference.cache
+C:\Users\lester_profarma\source\repos\GitHub\SaleSolution\SaleSolution\SaleSolution\src\SaleSolution.Web\obj\Debug\netcoreapp3.1\SaleSolution.Web.AssemblyInfoInputs.cache
+C:\Users\lester_profarma\source\repos\GitHub\SaleSolution\SaleSolution\SaleSolution\src\SaleSolution.Web\obj\Debug\netcoreapp3.1\SaleSolution.Web.AssemblyInfo.cs
+C:\Users\lester_profarma\source\repos\GitHub\SaleSolution\SaleSolution\SaleSolution\src\SaleSolution.Web\obj\Debug\netcoreapp3.1\SaleSolution.Web.csproj.CoreCompileInputs.cache
+C:\Users\lester_profarma\source\repos\GitHub\SaleSolution\SaleSolution\SaleSolution\src\SaleSolution.Web\obj\Debug\netcoreapp3.1\SaleSolution.Web.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\lester_profarma\source\repos\GitHub\SaleSolution\SaleSolution\SaleSolution\src\SaleSolution.Web\obj\Debug\netcoreapp3.1\SaleSolution.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lester_profarma\source\repos\GitHub\SaleSolution\SaleSolution\SaleSolution\src\SaleSolution.Web\obj\Debug\netcoreapp3.1\SaleSolution.Web.RazorAssemblyInfo.cache
+C:\Users\lester_profarma\source\repos\GitHub\SaleSolution\SaleSolution\SaleSolution\src\SaleSolution.Web\obj\Debug\netcoreapp3.1\SaleSolution.Web.RazorAssemblyInfo.cs

@@ -1,0 +1,4 @@
+C:\Users\lester_profarma\source\repos\GitHub\SaleSolution\SaleSolution\SaleSolution\src\SaleSolution.Infrastructure\obj\Debug\netcoreapp3.1\SaleSolution.Infrastructure.csprojAssemblyReference.cache
+C:\Users\lester_profarma\source\repos\GitHub\SaleSolution\SaleSolution\SaleSolution\src\SaleSolution.Infrastructure\obj\Debug\netcoreapp3.1\SaleSolution.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\lester_profarma\source\repos\GitHub\SaleSolution\SaleSolution\SaleSolution\src\SaleSolution.Infrastructure\obj\Debug\netcoreapp3.1\SaleSolution.Infrastructure.AssemblyInfo.cs
+C:\Users\lester_profarma\source\repos\GitHub\SaleSolution\SaleSolution\SaleSolution\src\SaleSolution.Infrastructure\obj\Debug\netcoreapp3.1\SaleSolution.Infrastructure.csproj.CoreCompileInputs.cache

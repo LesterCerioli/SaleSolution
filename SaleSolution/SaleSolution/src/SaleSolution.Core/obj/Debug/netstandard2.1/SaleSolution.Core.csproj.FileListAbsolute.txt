@@ -1,0 +1,5 @@
+C:\Users\lester_profarma\source\repos\GitHub\SaleSolution\SaleSolution\SaleSolution\src\SaleSolution.Core\bin\Debug\netstandard2.1\SaleSolution.SharedKernel.dll
+C:\Users\lester_profarma\source\repos\GitHub\SaleSolution\SaleSolution\SaleSolution\src\SaleSolution.Core\obj\Debug\netstandard2.1\SaleSolution.Core.csprojAssemblyReference.cache
+C:\Users\lester_profarma\source\repos\GitHub\SaleSolution\SaleSolution\SaleSolution\src\SaleSolution.Core\obj\Debug\netstandard2.1\SaleSolution.Core.AssemblyInfoInputs.cache
+C:\Users\lester_profarma\source\repos\GitHub\SaleSolution\SaleSolution\SaleSolution\src\SaleSolution.Core\obj\Debug\netstandard2.1\SaleSolution.Core.AssemblyInfo.cs
+C:\Users\lester_profarma\source\repos\GitHub\SaleSolution\SaleSolution\SaleSolution\src\SaleSolution.Core\obj\Debug\netstandard2.1\SaleSolution.Core.csproj.CoreCompileInputs.cache

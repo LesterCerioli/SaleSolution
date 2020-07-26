@@ -1,0 +1,9 @@
+C:\Users\lester_profarma\source\repos\GitHub\SaleSolution\SaleSolution\SaleSolution\src\SaleSolution.SharedKernel\bin\Debug\netstandard2.0\SaleSolution.SharedKernel.deps.json
+C:\Users\lester_profarma\source\repos\GitHub\SaleSolution\SaleSolution\SaleSolution\src\SaleSolution.SharedKernel\bin\Debug\netstandard2.0\SaleSolution.SharedKernel.dll
+C:\Users\lester_profarma\source\repos\GitHub\SaleSolution\SaleSolution\SaleSolution\src\SaleSolution.SharedKernel\bin\Debug\netstandard2.0\SaleSolution.SharedKernel.pdb
+C:\Users\lester_profarma\source\repos\GitHub\SaleSolution\SaleSolution\SaleSolution\src\SaleSolution.SharedKernel\obj\Debug\netstandard2.0\SaleSolution.SharedKernel.csprojAssemblyReference.cache
+C:\Users\lester_profarma\source\repos\GitHub\SaleSolution\SaleSolution\SaleSolution\src\SaleSolution.SharedKernel\obj\Debug\netstandard2.0\SaleSolution.SharedKernel.AssemblyInfoInputs.cache
+C:\Users\lester_profarma\source\repos\GitHub\SaleSolution\SaleSolution\SaleSolution\src\SaleSolution.SharedKernel\obj\Debug\netstandard2.0\SaleSolution.SharedKernel.AssemblyInfo.cs
+C:\Users\lester_profarma\source\repos\GitHub\SaleSolution\SaleSolution\SaleSolution\src\SaleSolution.SharedKernel\obj\Debug\netstandard2.0\SaleSolution.SharedKernel.csproj.CoreCompileInputs.cache
+C:\Users\lester_profarma\source\repos\GitHub\SaleSolution\SaleSolution\SaleSolution\src\SaleSolution.SharedKernel\obj\Debug\netstandard2.0\SaleSolution.SharedKernel.dll
+C:\Users\lester_profarma\source\repos\GitHub\SaleSolution\SaleSolution\SaleSolution\src\SaleSolution.SharedKernel\obj\Debug\netstandard2.0\SaleSolution.SharedKernel.pdb
